@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: CerberusPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: f76555aaf45a34046ad786b9e55958f0, type: 2}
+  _trailUpgradeBaseValue: 17
+  _trailUnlockScoreCost: 12900
+  _trailUnlockGemsCost: 1030
+  _trailBaseHp: 1550
+  _trailFire: 0.45
+  _trailPoison: 0.45
+  _trailIce: 0.22
+  _trailWater: 0.29
+  _trailElectric: 0.34
+  _trailGhost: 0.38
+  _trailRainbow: 0.39
+  _trailSpeed: 4.5
+  _trailTurnSpeed: 128
+  _unevolvedSwordSprite: {fileID: 1771557822, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: 520643313, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.19607845, g: 0.23529413, b: 0.22352943, a: 1}
+  _background: {r: 0.6862745, g: 0.7019608, b: 0.7725491, a: 1}
+  _iconBackground: {r: 0.13333334, g: 0.1254902, b: 0.20392159, a: 1}
+  _nameColor: {r: 0.13333334, g: 0.1254902, b: 0.20392157, a: 1}
+  _levelColor: {r: 0.13333334, g: 0.1254902, b: 0.20392157, a: 1}

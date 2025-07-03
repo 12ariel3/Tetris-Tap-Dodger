@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tabler_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8d1832ad895510840bffa42788e3e602, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8924336128
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1614950941233152
+    m_Localized: Health Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1615487371743232
+    m_Localized: Fire Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616057629315072
+    m_Localized: Poison Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616308381585408
+    m_Localized: Ice Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616457434566656
+    m_Localized: Water Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616574770221056
+    m_Localized: Electric Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616722279698432
+    m_Localized: Ghost Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616867532640256
+    m_Localized: Rainbow Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617272333307904
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620459240984576
+    m_Localized: Aircrafts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621036872142848
+    m_Localized: Character Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621222394597376
+    m_Localized: Aircraft Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621356645879808
+    m_Localized: Upgrade Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918759806603264
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919468899831808
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919811654160384
+    m_Localized: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920596592988160
+    m_Localized: Try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920618441117696
+    m_Localized: Your
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920635553878016
+    m_Localized: Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921313923829760
+    m_Localized: You Are A Champion! :D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921565041004544
+    m_Localized: And i Love You <3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922825416773632
+    m_Localized: About Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922967314272256
+    m_Localized: Rate Me :D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923070263463936
+    m_Localized: Privacy Policy
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

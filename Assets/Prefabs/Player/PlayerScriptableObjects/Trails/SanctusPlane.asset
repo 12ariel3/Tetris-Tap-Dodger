@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: SanctusPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: 1ed8ddd58ce289a4781d061268d6fe4c, type: 2}
+  _trailUpgradeBaseValue: 11
+  _trailUnlockScoreCost: 8890
+  _trailUnlockGemsCost: 700
+  _trailBaseHp: 1090
+  _trailFire: 0.2
+  _trailPoison: 0.4
+  _trailIce: 0.2
+  _trailWater: 0.2
+  _trailElectric: 0.4
+  _trailGhost: 0.1
+  _trailRainbow: 0.45
+  _trailSpeed: 4.4
+  _trailTurnSpeed: 125
+  _unevolvedSwordSprite: {fileID: -230580295, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: -1749956579, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 1, g: 1, b: 1, a: 1}
+  _background: {r: 1, g: 0.864577, b: 0.5801887, a: 1}
+  _iconBackground: {r: 1, g: 0.6894977, b: 0, a: 1}
+  _nameColor: {r: 1, g: 0.6901961, b: 0, a: 1}
+  _levelColor: {r: 1, g: 0.6901961, b: 0, a: 1}

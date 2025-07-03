@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1303ed6bd880aa43aae9a86a23c5bd3, type: 3}
+  m_Name: 5-70
+  m_EditorClassIdentifier: 
+  _currentLevelType: Acheron
+  _totalDurationLevel: 100
+  _minCooldownTime: 0.1
+  _maxCooldownTime: 0.6
+  _projectileLevel: 150
+  _projectileSpeed: 24
+  _energyToRest: 12
+  _levelNumber: 70
+  _totalLevelNumber: 300
+  _projectileToSpawnConfiguration:
+  - {fileID: 11400000, guid: 0a290a44d48594448bcb6072d73101f4, type: 2}
+  - {fileID: 11400000, guid: d676b19ffd3d80d449420430484d7e45, type: 2}
+  - {fileID: 11400000, guid: 8027ca5f3e1d5144c83bd0846413f222, type: 2}
+  - {fileID: 11400000, guid: 36e9387f2a0dbb94db13388316e0b4e6, type: 2}
+  - {fileID: 11400000, guid: 793043fd487ac7648a09ce6ef9f9eb1a, type: 2}
+  - {fileID: 11400000, guid: 11f7055d4d2d0784597b07987bd14815, type: 2}
+  - {fileID: 11400000, guid: ca66e082e747f75499e9173818de2417, type: 2}
+  - {fileID: 11400000, guid: c99250344cc3cfa4bb6818d61dc42184, type: 2}
+  - {fileID: 11400000, guid: aae72aecb8e349d47a3d22368d2cc9c5, type: 2}
+  - {fileID: 11400000, guid: 255518d7cb7ee67419d7a00816f7cd23, type: 2}
+  - {fileID: 11400000, guid: 2478b7a9f5502434691cd15db6063fbe, type: 2}
+  _debuffProbability: 100
+  _specialProjectileCastPercentaje: 0
+  _specialProjectileToSpawnConfiguration: []

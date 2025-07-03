@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9be051caca592994a99f9fc6924c39a6, type: 3}
+  m_Name: DebuffParticlesSystemConfiguration
+  m_EditorClassIdentifier: 
+  _debuffPrefabs:
+  - {fileID: -3602646944981477746, guid: a9fad6f78da24514387714e96254fddd, type: 3}
+  - {fileID: 1531209703464289592, guid: 89956e675b749204c8e10395ce2b5fb9, type: 3}
+  - {fileID: 2589490339166680170, guid: 76224769ac72ccd4691d36f373ec724b, type: 3}
+  - {fileID: 4623423831059376306, guid: d510bd8b5dd064a47b5a7b88b5b7592f, type: 3}
+  - {fileID: -8230680229405770389, guid: 090215db3daddac4f88235d2926e0e48, type: 3}
+  - {fileID: 4080870312755524868, guid: 6620ed6a7843007478d26d4066e66872, type: 3}
+  - {fileID: -7801040694961384334, guid: 20b46cd0d69c87e4ea8499fbd8eff155, type: 3}

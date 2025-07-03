@@ -1,0 +1,8 @@
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Unity Projects/Ballion/.utmp/RelWithDebInfo/1l1o633w/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

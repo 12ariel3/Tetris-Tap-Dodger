@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: RainbowPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: 6d5f371130f133d48a7a5571ef44d72b, type: 2}
+  _trailUpgradeBaseValue: 24
+  _trailUnlockScoreCost: 22000
+  _trailUnlockGemsCost: 1900
+  _trailBaseHp: 3700
+  _trailFire: 0.38
+  _trailPoison: 0.29
+  _trailIce: 0.46
+  _trailWater: 0.4
+  _trailElectric: 0.39
+  _trailGhost: 0.56
+  _trailRainbow: 0.7
+  _trailSpeed: 4.5
+  _trailTurnSpeed: 130
+  _unevolvedSwordSprite: {fileID: -1689337152, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: 1455917315, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.99215686, g: 0, b: 0.4038926, a: 1}
+  _background: {r: 0.6965084, g: 1, b: 0, a: 1}
+  _iconBackground: {r: 0, g: 0.1451273, b: 1, a: 1}
+  _nameColor: {r: 1, g: 0.6834848, b: 0, a: 1}
+  _levelColor: {r: 0, g: 1, b: 0.68417, a: 1}

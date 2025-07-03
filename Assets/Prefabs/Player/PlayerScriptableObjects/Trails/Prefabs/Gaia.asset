@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14f7c8f7f7ae67b42ab8242fbbd4d38c, type: 3}
+  m_Name: Gaia
+  m_EditorClassIdentifier: 
+  _swordImage: {fileID: -1222613488, guid: 7a84c40a1ab53a042bd68493d669252c, type: 3}
+  _firstColliderOffset: {x: -0.02160168, y: -0.03979439}
+  _firstColliderSize: {x: 0.3461487, y: 0.6382579}
+  _secondColliderOffset: {x: -0.02158058, y: 0.04906285}
+  _secondColliderSize: {x: 0.7701967, y: 0.2271714}

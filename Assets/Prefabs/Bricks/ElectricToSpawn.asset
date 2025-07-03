@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4deff29b7dd949949194a9dfcc38b, type: 3}
+  m_Name: ElectricToSpawn
+  m_EditorClassIdentifier: 
+  _projectileId: {fileID: 11400000, guid: bdea7e7f4a5b33444903d2c6915ddda8, type: 2}
+  _name: Electric
+  _explosionName: Electric
+  _score: 16
+  _gems: 4
+  _gemsProbability: 30
+  _experience: 125
+  _maxHp: 11
+  _attack: 10
+  _isSpecial: 0
+  _speed: 9.5
+  _turnSpeed: 150

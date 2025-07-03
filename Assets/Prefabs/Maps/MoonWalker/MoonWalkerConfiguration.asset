@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbaf70ebe09ecbb47bdcb357ef107b8c, type: 3}
+  m_Name: MoonWalkerConfiguration
+  m_EditorClassIdentifier: 
+  _id: {fileID: 11400000, guid: 5025efaeb5a933e439e92507615b7e49, type: 2}
+  _mapName: {fileID: 11400000, guid: fe94e69c5c3ec7345805bec77f5ba0a1, type: 2}
+  _levels:
+  - {fileID: 11400000, guid: dff011d829ee8fb48b7d49592bf559f3, type: 2}
+  - {fileID: 11400000, guid: 7b65ce1fc05916743a4461644ee0b9b0, type: 2}
+  - {fileID: 11400000, guid: ceb4442154d4a664b997bcdb574f0c43, type: 2}
+  - {fileID: 11400000, guid: 3058bcbae09edcb4a9ee7369a6d96467, type: 2}
+  - {fileID: 11400000, guid: c27db8b67acf1a04ba14f26d68132712, type: 2}
+  - {fileID: 11400000, guid: 7abbc8e9eaa47af44b655d4e1e556b17, type: 2}
+  - {fileID: 11400000, guid: 60768fa7a10dcc44b990ff71a255cd24, type: 2}
+  - {fileID: 11400000, guid: 3bde3a24092f81642913e8f8b2eee3c2, type: 2}
+  - {fileID: 11400000, guid: 5c2eb3edc0430774d9304225d5c843a8, type: 2}
+  - {fileID: 11400000, guid: 5fd9e3813c473e94dbf7fe94481c9eb8, type: 2}
+  - {fileID: 11400000, guid: c03a3663bc1edc94e960b09384ee04eb, type: 2}
+  - {fileID: 11400000, guid: 800887afd85ed4749a1a6841d43f77ce, type: 2}
+  - {fileID: 11400000, guid: 3989641bfd31ab94eac0f7f6c34f5286, type: 2}
+  - {fileID: 11400000, guid: 350d5f649f506664990e936165bdf62a, type: 2}
+  - {fileID: 11400000, guid: 9a21e7e20fa11dc489662c72443ed8ff, type: 2}
+  - {fileID: 11400000, guid: 43625aea0a927c64893209d54e396dc1, type: 2}
+  - {fileID: 11400000, guid: bb79812292426bd4db30f4499743c336, type: 2}
+  - {fileID: 11400000, guid: 67aed47a1d63d5645ba91df3f07d5569, type: 2}
+  - {fileID: 11400000, guid: 6cf281fbdce663644b0e0b7b85f979e5, type: 2}
+  - {fileID: 11400000, guid: 73f404b4e5a6a4345aac84399ce95a91, type: 2}
+  - {fileID: 11400000, guid: 08b9932152394534ba3d41875d3b9787, type: 2}
+  - {fileID: 11400000, guid: 2c8cdad04669c8d4f90cf0e56a579548, type: 2}
+  - {fileID: 11400000, guid: a0d296803d888744e987c758d1c6fae2, type: 2}
+  - {fileID: 11400000, guid: 848cf3683cf46d949a45d01f95937f3f, type: 2}
+  - {fileID: 11400000, guid: d4ae9c103a2f1854ea6f0b5c8b139aa9, type: 2}
+  - {fileID: 11400000, guid: 751a8801b6de55044982997aa5c9f600, type: 2}
+  - {fileID: 11400000, guid: cef5aa87e704d0a48b3ef64134308e51, type: 2}
+  - {fileID: 11400000, guid: a08335a6124658e42a1ab8b0e34f27a5, type: 2}
+  - {fileID: 11400000, guid: 455755b047cb3d14b9a4785cdf5f307d, type: 2}
+  - {fileID: 11400000, guid: 74dbbd75e20de644cb761df7f328aee9, type: 2}
+  - {fileID: 11400000, guid: 9c1e83b08aa8ba3489dfa22e2166412b, type: 2}
+  - {fileID: 11400000, guid: 753018f5978b9004895d2987a29539d2, type: 2}
+  - {fileID: 11400000, guid: 7bb4c00f912231d40b9705fe2bc28960, type: 2}
+  - {fileID: 11400000, guid: d3021801cb89f0347b2dcad63b5a185d, type: 2}
+  - {fileID: 11400000, guid: d0424eea287c32747a342c89e28ae50a, type: 2}
+  - {fileID: 11400000, guid: 438976cac31f3364486070ff5c3724ad, type: 2}
+  - {fileID: 11400000, guid: 5bfc9dd62e627634c8100f12b642425c, type: 2}
+  - {fileID: 11400000, guid: b67f63b30b3e83c44988d3a6a303d219, type: 2}
+  - {fileID: 11400000, guid: a1f94b90296a0084ebe6008ebad1d611, type: 2}
+  - {fileID: 11400000, guid: 95a19fa34b7e7e4469db54315c9a3a4b, type: 2}
+  _mapBackground: {fileID: 401553635, guid: f8890a646d9754041bf5cd3f327473ed, type: 3}
+  _particleSystemColor: {r: 0, g: 0.9286411, b: 1, a: 1}
+  _backgroundLevelColor: {r: 0, g: 0.5764706, b: 1, a: 1}
+  _titleAndLevelFont: {fileID: 11400000, guid: cd143bcb13f375d4fa7879c161fe5698, type: 2}

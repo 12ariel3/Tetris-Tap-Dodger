@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: FoxglovePlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: ebe787fbb3f19574e83de32ef12a9e2c, type: 2}
+  _trailUpgradeBaseValue: 14
+  _trailUnlockScoreCost: 11111
+  _trailUnlockGemsCost: 940
+  _trailBaseHp: 1380
+  _trailFire: 0.4
+  _trailPoison: 0.2
+  _trailIce: 0.46
+  _trailWater: 0.32
+  _trailElectric: 0.17
+  _trailGhost: 0.6
+  _trailRainbow: 0.28
+  _trailSpeed: 4.1
+  _trailTurnSpeed: 145
+  _unevolvedSwordSprite: {fileID: 345356783, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: -39331054, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.07834828, g: 0.34117648, b: 0.0039215777, a: 1}
+  _background: {r: 0.0538029, g: 0.8117647, b: 0, a: 1}
+  _iconBackground: {r: 0.532133, g: 0.26067996, b: 0.5471698, a: 1}
+  _nameColor: {r: 0.53333336, g: 0.2627451, b: 0.54901963, a: 1}
+  _levelColor: {r: 0.53333336, g: 0.2627451, b: 0.54901963, a: 1}

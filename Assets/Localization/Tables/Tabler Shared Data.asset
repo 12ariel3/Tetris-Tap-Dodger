@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tabler Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tabler
+  m_TableCollectionNameGuidString: 8d1832ad895510840bffa42788e3e602
+  m_Entries:
+  - m_Id: 8924336128
+    m_Key: LoadingScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1614950941233152
+    m_Key: HealthPoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1615487371743232
+    m_Key: FireResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616057629315072
+    m_Key: PoisonResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616308381585408
+    m_Key: IceResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616457434566656
+    m_Key: WaterResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616574770221056
+    m_Key: ElectricResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616722279698432
+    m_Key: GhostResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1616867532640256
+    m_Key: RainbowResistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1617272333307904
+    m_Key: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1620459240984576
+    m_Key: Aircrafts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621036872142848
+    m_Key: CharacterStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621222394597376
+    m_Key: PlaneStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1621356645879808
+    m_Key: UpgradeStats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1918759806603264
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919468899831808
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1919811654160384
+    m_Key: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920596592988160
+    m_Key: Try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920618441117696
+    m_Key: Your
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1920635553878016
+    m_Key: Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921313923829760
+    m_Key: YouAreAchampion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1921565041004544
+    m_Key: AndILoveYou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922825416773632
+    m_Key: AboutUs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922967314272256
+    m_Key: RateMe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923070263463936
+    m_Key: PrivacyPolicy
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5300728438268100864
+  references:
+    version: 2
+    RefIds:
+    - rid: 5300728438268100864
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1737408597541

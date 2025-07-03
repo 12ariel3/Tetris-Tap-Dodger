@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: WildPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: 3f8390c48f9a11d44b7590ae5b9146bd, type: 2}
+  _trailUpgradeBaseValue: 2
+  _trailUnlockScoreCost: 1000
+  _trailUnlockGemsCost: 50
+  _trailBaseHp: 180
+  _trailFire: 0.15
+  _trailPoison: 0.25
+  _trailIce: 0.1
+  _trailWater: 0.15
+  _trailElectric: 0.15
+  _trailGhost: 0.1
+  _trailRainbow: 0.2
+  _trailSpeed: 4.2
+  _trailTurnSpeed: 125
+  _unevolvedSwordSprite: {fileID: 1838699361, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: 1685988871, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.4339623, g: 0.3212576, b: 0, a: 1}
+  _background: {r: 0.26521248, g: 0.40392157, b: 0.007843133, a: 1}
+  _iconBackground: {r: 0.69803923, g: 0.031372543, b: 0.2539719, a: 1}
+  _nameColor: {r: 0.69803923, g: 0.03137255, b: 0.25490198, a: 1}
+  _levelColor: {r: 0.69803923, g: 0.03137255, b: 0.25490198, a: 1}

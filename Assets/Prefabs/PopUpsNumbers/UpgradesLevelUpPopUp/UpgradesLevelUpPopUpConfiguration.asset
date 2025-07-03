@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e885bc1d45abad94e85261deeb1f794f, type: 3}
+  m_Name: UpgradesLevelUpPopUpConfiguration
+  m_EditorClassIdentifier: 
+  _upgradesLevelUpPopUpPrefabs:
+  - {fileID: 6606899156771399670, guid: e3a86d7709c22944b809cafa047fe7db, type: 3}

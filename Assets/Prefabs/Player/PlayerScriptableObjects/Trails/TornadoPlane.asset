@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: TornadoPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: a276207c612fe88468550c2465f4a83f, type: 2}
+  _trailUpgradeBaseValue: 20
+  _trailUnlockScoreCost: 16900
+  _trailUnlockGemsCost: 1520
+  _trailBaseHp: 2680
+  _trailFire: 0.4
+  _trailPoison: 0.39
+  _trailIce: 0.5
+  _trailWater: 0.46
+  _trailElectric: 0.5
+  _trailGhost: 0.43
+  _trailRainbow: 0.58
+  _trailSpeed: 4.6
+  _trailTurnSpeed: 122
+  _unevolvedSwordSprite: {fileID: 2028358034, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: 472577527, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.4764151, g: 0.8492994, b: 1, a: 1}
+  _background: {r: 0.77095944, g: 0.9173776, b: 0.9339623, a: 1}
+  _iconBackground: {r: 0.47939655, g: 0.5377358, b: 0.53322107, a: 1}
+  _nameColor: {r: 0.48235294, g: 0.5411765, b: 0.53333336, a: 1}
+  _levelColor: {r: 0.48235294, g: 0.5411765, b: 0.53333336, a: 1}

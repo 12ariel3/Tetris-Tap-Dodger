@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11b44ecfc0e8564a891c474ae7732c9, type: 3}
+  m_Name: WoodenPlane
+  m_EditorClassIdentifier: 
+  _trailId: {fileID: 11400000, guid: 893eb2e540850414ba433828e798f04e, type: 2}
+  _trailUpgradeBaseValue: 5
+  _trailUnlockScoreCost: 2100
+  _trailUnlockGemsCost: 110
+  _trailBaseHp: 450
+  _trailFire: 0.22
+  _trailPoison: 0.11
+  _trailIce: 0.24
+  _trailWater: 0.22
+  _trailElectric: 0.35
+  _trailGhost: 0.33
+  _trailRainbow: 0.28
+  _trailSpeed: 4.7
+  _trailTurnSpeed: 110
+  _unevolvedSwordSprite: {fileID: -513931782, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _evolvedSwordSprite: {fileID: -1770937332, guid: 8e0aac74532731f42bcf13b9224c9f8d, type: 3}
+  _deepBackground: {r: 0.6886792, g: 0.61846095, b: 0, a: 1}
+  _background: {r: 0.6792453, g: 0.42488945, b: 0, a: 1}
+  _iconBackground: {r: 1, g: 0.8534628, b: 0, a: 1}
+  _nameColor: {r: 1, g: 0.85490197, b: 0, a: 1}
+  _levelColor: {r: 1, g: 0.85490197, b: 0, a: 1}
