@@ -14,12 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 9
     y: 51
     width: 1903
     height: 1021
   m_ShowMode: 4
   m_Title: Inspector
+=======
+    x: 8
+    y: 51
+    width: 1904
+    height: 1021
+  m_ShowMode: 4
+  m_Title: Project
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -39,12 +48,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1444
     y: 0
     width: 459
     height: 965
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    x: 1445
+    y: 0
+    width: 459
+    height: 965
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -70,7 +88,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1903
+=======
+    width: 1904
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 1021
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -95,7 +117,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1903
+=======
+    width: 1904
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 36
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -117,7 +143,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 1001
+<<<<<<< HEAD
     width: 1903
+=======
+    width: 1904
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -140,12 +170,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 36
+<<<<<<< HEAD
     width: 1903
+=======
+    width: 1904
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 965
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 46
+=======
+  controlID: 48
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -166,12 +204,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1444
+=======
+    width: 1445
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 965
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 47
+=======
+  controlID: 49
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -193,12 +239,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1444
+=======
+    width: 1445
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 565
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 48
+=======
+  controlID: 50
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -243,10 +297,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 348
     y: 0
+<<<<<<< HEAD
     width: 759
     height: 565
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    width: 760
+    height: 565
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -267,7 +328,11 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1107
+=======
+    x: 1108
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     y: 0
     width: 337
     height: 565
@@ -295,7 +360,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 565
+<<<<<<< HEAD
     width: 1444
+=======
+    width: 1445
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 400
   m_MinSize: {x: 231, y: 276}
   m_MaxSize: {x: 10001, y: 10026}
@@ -326,7 +395,11 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 9
+=======
+    x: 8
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     y: 87
     width: 347
     height: 539
@@ -346,7 +419,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: cc7dffff3a7fffff7882ffff1884ffff6484ffffe8baffff3cbcffff94f1ffff1ef6ffff0efbffff98c500000cdb0000b8db0000dcdb00005add000074dd0000e4dd0000
+=======
+      m_ExpandedIDs: b0e2ffff20e4ffff56e7ffffe8e8ffff2ee9ffff0efbffff
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -392,9 +469,15 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 357
     y: 87
     width: 757
+=======
+    x: 356
+    y: 87
+    width: 758
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 539
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -952,7 +1035,11 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -5.013688, y: -1.393909, z: -0.086943604}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: -5.013688, y: -1.393909, z: -0.086943604}
+=======
+    m_Value: {x: -1.046, y: 2.276, z: 0.125}
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1004,7 +1091,11 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.606835
     speed: 2
+<<<<<<< HEAD
     m_Value: 9.606835
+=======
+    m_Value: 1.1510485
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1056,9 +1147,15 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 9
     y: 652
     width: 1443
+=======
+    x: 8
+    y: 652
+    width: 1444
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     height: 374
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1082,7 +1179,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Code/UI
+=======
+    - Assets/Prefabs/Bricks/BricksPrefab
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1092,17 +1193,28 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Code/UI
+=======
+  - Assets/Prefabs/Bricks/BricksPrefab
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Usuario\OneDrive\Escritorio\Programacion\Unity\Unity
     Projects\Tetris Tap Dodger
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 259}
     m_SelectedIDs: 30da0000
     m_LastClickedID: 55856
     m_ExpandedIDs: 000000005ed9000060d9000062d9000064d9000066d9000068d900006ad900006cd900006ed9000070d9000072d9000074d9000076d9000078d900007ad900007cd900007ed9000080d9000082d9000084d9000086d9000088d900008ad900008cd900008ed9000090d9000092d9000094d9000096d9000098d900009ad900009cd900009ed90000a0d90000a2d9000044da000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 739}
+    m_SelectedIDs: 34b30000
+    m_LastClickedID: 45876
+    m_ExpandedIDs: 000000009cb100009eb10000a0b10000a2b10000a4b10000a6b10000a8b10000aab10000acb10000aeb10000b0b10000b2b10000b4b10000b6b10000b8b10000bab10000bcb10000beb10000c0b10000c2b10000c4b10000c6b10000c8b10000cab10000ccb10000ceb10000d0b10000d2b10000d4b10000d6b10000d8b10000dab10000dcb10000deb10000e0b1000000ca9a3b
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1131,7 +1243,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000005ed9000060d9000062d9000064d9000066d9000068d900006ad900006cd900006ed9000070d9000072d9000074d9000076d9000078d900007ad900007cd900007ed9000080d9000082d9000084d9000086d9000088d900008ad900008cd900008ed9000090d9000092d9000094d9000096d9000098d900009ad900009cd900009ed90000a0d90000a2d90000
+=======
+    m_ExpandedIDs: 000000009cb100009eb10000a0b10000a2b10000a4b10000a6b10000a8b10000aab10000acb10000aeb10000b0b10000b2b10000b4b10000b6b10000b8b10000bab10000bcb10000beb10000c0b10000c2b10000c4b10000c6b10000c8b10000cab10000ccb10000ceb10000d0b10000d2b10000d4b10000d6b10000d8b10000dab10000dcb10000deb10000e0b10000
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1268,7 +1384,11 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
+<<<<<<< HEAD
   m_LastVerticalScrollValue: 0
+=======
+  m_LastVerticalScrollValue: 810
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

@@ -72,9 +72,15 @@ namespace Assets.Code.Enemies.Projectiles
             _gemsProbability = configuration.GemsProbability;
             _experience = Mathf.FloorToInt((configuration.Experience * configuration.Level));
             _attack = Mathf.FloorToInt(configuration.Attack * configuration.Level); ;
+<<<<<<< HEAD
             _explosionName = configuration.ExplosionName;
             _isSpecial = configuration.IsSpecial;
             _colorAndTypeController.Configure(configuration.ColorAndType);
+=======
+            _isSpecial = configuration.IsSpecial;
+            _colorAndTypeController.Configure(configuration.ColorAndType);
+            _explosionName = _colorAndTypeController._colorAndTypeString;
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
         }
 
         private void OnTriggerEnter2D(Collider2D other)

@@ -142,7 +142,11 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
+<<<<<<< HEAD
   bundleVersion: 1.0.3
+=======
+  bundleVersion: 1.0.4
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   preloadedAssets:
   - {fileID: 0}
   metroInputSource: 0
@@ -177,7 +181,11 @@ PlayerSettings:
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
+<<<<<<< HEAD
   AndroidBundleVersionCode: 3
+=======
+  AndroidBundleVersionCode: 4
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -272,7 +280,11 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: C:/Users/Usuario/OneDrive/Escritorio/Programacion/Unity/Projects
+<<<<<<< HEAD
     Things/Tetris Tap Dodger Things/user.keystore
+=======
+    Things/Tetris Tap Dodger Things/Tetris Tap Dodger Keystore.keystore
+>>>>>>> 20f7f5d (Tetris Tap Dodge Finished)
   AndroidKeyaliasName: tetristapdodger
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidEnableArm64MTE: 0
